@@ -1,4 +1,5 @@
 # Cadastro e média de aluno — Programação Orientada a Objetos
+# Estudante: Angélica da Silva Alves
 
 Programa de terminal em Python que refatora o trabalho original em C utilizando o paradigma de Programação Orientada a Objetos (POO). O programa solicita nome, matrícula e três notas, valida as notas entre 0 e 10, calcula a média e informa a situação acadêmica.
 
@@ -12,13 +13,13 @@ Programa de terminal em Python que refatora o trabalho original em C utilizando 
 Abra um terminal na pasta do projeto e execute:
 
 ```bash
-python main.py
+python p2aluno-1.py
 ```
 
 Em alguns sistemas, o comando pode ser:
 
 ```bash
-python3 main.py
+python3 p2aluno-1.py
 ```
 
 ## Exemplo de uso
